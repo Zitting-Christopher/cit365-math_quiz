@@ -104,6 +104,8 @@ namespace Math_Quiz
         public Form1()
         {
             InitializeComponent();
+            DateTime dt = DateTime.Today;
+            dateLabel1.Text = dt.ToString("dd MMMM yyyy");
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -191,6 +193,44 @@ namespace Math_Quiz
                 int lengthOfAnswer = answerBox.Value.ToString().Length;
                 answerBox.Select(0, lengthOfAnswer);
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dateLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void aboutToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            string msg = "Created from the Create a timed math quiz tutorial."
+                + Environment.NewLine + "Put together by Chris Zitting";
+            MessageBox.Show(msg, "About Math Quiz");
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            string link = "https://www.hostyour.space/";
+            System.Diagnostics.Process.Start(link);
         }
     }
 }

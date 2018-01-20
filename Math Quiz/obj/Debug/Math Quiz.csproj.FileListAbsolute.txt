@@ -1,0 +1,10 @@
+C:\Users\Chris\ownCloud\CIT 365\Week 2\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.config
+C:\Users\Chris\ownCloud\CIT 365\Week 2\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe
+C:\Users\Chris\ownCloud\CIT 365\Week 2\Math Quiz\Math Quiz\bin\Debug\Math Quiz.pdb
+C:\Users\Chris\ownCloud\CIT 365\Week 2\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csprojResolveAssemblyReference.cache
+C:\Users\Chris\ownCloud\CIT 365\Week 2\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Form1.resources
+C:\Users\Chris\ownCloud\CIT 365\Week 2\Math Quiz\Math Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
+C:\Users\Chris\ownCloud\CIT 365\Week 2\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.GenerateResource.Cache
+C:\Users\Chris\ownCloud\CIT 365\Week 2\Math Quiz\Math Quiz\obj\Debug\Math Quiz.csproj.CoreCompileInputs.cache
+C:\Users\Chris\ownCloud\CIT 365\Week 2\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
+C:\Users\Chris\ownCloud\CIT 365\Week 2\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
